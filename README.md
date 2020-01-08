@@ -1,3 +1,12 @@
+- [RRM-PoE](#rrm-poe)
+  * [File description](#file-description)
+    + [Dataset](#dataset)
+  * [Getting started](#getting-started)
+    + [Prerequisites](#prerequisites)
+  * [Versioning](#versioning)
+  * [Authors](#authors)
+  * [Licence](#licence)
+
 # RRM-PoE
 An example of a product of experts (PoE) choice model using BIOGEME
 
@@ -36,7 +45,7 @@ Python 3.5+ (with pip3), PythonBiogeme **Version 2.5** [download](https://biogem
 Note: PandasBiogeme is not supported yet
 
 ## Versioning
-0.1 Inital version
+0.1 Initial version
 
 ## Authors
 Melvin Wong ([Github](https://github.com/mwong009))
